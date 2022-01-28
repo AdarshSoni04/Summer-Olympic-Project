@@ -2,7 +2,7 @@
 
 Introduction :
 
-Folowing questions was given to us in this Assignment from Elite Techno group. Following questions were solved by me:-
+Folowing questions were solved by me:-
 
 In how many cities Summer Olympics is held so far?
 
@@ -22,7 +22,7 @@ Which sport is having most female Gold Medalists?
 
 About Project :
 
-We were given a dataset, in the form of a .csv file, through which we had to answer some questions using python code.
+I've taken a dataset, in the form of a .csv file, through which I had answered some questions using python code.
 Platform used to do this project is Google Colab.
 
 About me :
